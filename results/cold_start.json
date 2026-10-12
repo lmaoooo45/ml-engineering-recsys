@@ -1,0 +1,111 @@
+{
+  "user": 0,
+  "method": "collaborative",
+  "fallback_to_popular": true,
+  "train_cutoff": 889237269,
+  "recommendations": [
+    {
+      "id": 50,
+      "title": "Star Wars (1977)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Romance",
+        "Sci-Fi",
+        "War"
+      ],
+      "score": 410.0
+    },
+    {
+      "id": 100,
+      "title": "Fargo (1996)",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "score": 330.0
+    },
+    {
+      "id": 181,
+      "title": "Return of the Jedi (1983)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Romance",
+        "Sci-Fi",
+        "War"
+      ],
+      "score": 314.0
+    },
+    {
+      "id": 174,
+      "title": "Raiders of the Lost Ark (1981)",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "score": 284.0
+    },
+    {
+      "id": 127,
+      "title": "Godfather, The (1972)",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "score": 282.0
+    },
+    {
+      "id": 98,
+      "title": "Silence of the Lambs, The (1991)",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "score": 280.0
+    },
+    {
+      "id": 258,
+      "title": "Contact (1997)",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "score": 269.0
+    },
+    {
+      "id": 1,
+      "title": "Toy Story (1995)",
+      "genres": [
+        "Animation",
+        "Children's",
+        "Comedy"
+      ],
+      "score": 266.0
+    },
+    {
+      "id": 56,
+      "title": "Pulp Fiction (1994)",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "score": 247.0
+    },
+    {
+      "id": 172,
+      "title": "Empire Strikes Back, The (1980)",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "War"
+      ],
+      "score": 245.0
+    }
+  ]
+}

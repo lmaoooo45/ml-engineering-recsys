@@ -1,0 +1,70 @@
+{
+  "dataset": "MovieLens 100K",
+  "python": "3.12.2",
+  "numpy": "2.0.2",
+  "sklearn": "1.6.1",
+  "k": 10,
+  "ratings": 100000,
+  "movies": 1682,
+  "users_total": 943,
+  "train_ratings": 80003,
+  "test_ratings": 19997,
+  "cutoff_timestamp": 889237269,
+  "train_max_timestamp": 889237269,
+  "test_min_timestamp": 889237297,
+  "evaluated_users": 287,
+  "cold_users_evaluated": 192,
+  "eligible_movies": 1616,
+  "excluded_test_positive_new_items": 95,
+  "build_seconds": 0.07488250000005792,
+  "methods": {
+    "content": {
+      "precision_at_k": 0.2198606271777005,
+      "recall_at_k": 0.06290456064920917,
+      "ndcg_at_k": 0.23917281669102325,
+      "catalog_coverage": 0.12128712871287128,
+      "recommended_unique": 196,
+      "mean_latency_ms": 0.16975958188193083,
+      "p95_latency_ms": 0.46354000000974327,
+      "fallback_users": 193,
+      "warm_users": {
+        "n": 95,
+        "precision_at_k": 0.04421052631578948,
+        "recall_at_k": 0.03828013698462256,
+        "ndcg_at_k": 0.05453069872365083
+      }
+    },
+    "collaborative": {
+      "precision_at_k": 0.24668989547038325,
+      "recall_at_k": 0.07628956247882732,
+      "ndcg_at_k": 0.2698602840242901,
+      "catalog_coverage": 0.12747524752475248,
+      "recommended_unique": 206,
+      "mean_latency_ms": 0.057714982571085705,
+      "p95_latency_ms": 0.09565000013935787,
+      "fallback_users": 193,
+      "warm_users": {
+        "n": 95,
+        "precision_at_k": 0.1252631578947368,
+        "recall_at_k": 0.07871693198567954,
+        "ndcg_at_k": 0.14723915266731005
+      }
+    },
+    "popular": {
+      "precision_at_k": 0.24738675958188147,
+      "recall_at_k": 0.0859222917667376,
+      "ndcg_at_k": 0.2739468185504974,
+      "catalog_coverage": 0.04579207920792079,
+      "recommended_unique": 74,
+      "mean_latency_ms": 0.04489512195207202,
+      "p95_latency_ms": 0.06201000023793313,
+      "fallback_users": 0,
+      "warm_users": {
+        "n": 95,
+        "precision_at_k": 0.12736842105263158,
+        "recall_at_k": 0.10781791415020844,
+        "ndcg_at_k": 0.1595847885517469
+      }
+    }
+  }
+}

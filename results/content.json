@@ -1,0 +1,98 @@
+{
+  "user": 1,
+  "method": "content",
+  "fallback_to_popular": false,
+  "train_cutoff": 889237269,
+  "recommendations": [
+    {
+      "id": 316,
+      "title": "As Good As It Gets (1997)",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "score": 0.7435188115633447
+    },
+    {
+      "id": 345,
+      "title": "Deconstructing Harry (1997)",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "score": 0.7435188115633447
+    },
+    {
+      "id": 347,
+      "title": "Wag the Dog (1997)",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "score": 0.7435188115633447
+    },
+    {
+      "id": 382,
+      "title": "Adventures of Priscilla, Queen of the Desert, The (1994)",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "score": 0.7435188115633447
+    },
+    {
+      "id": 409,
+      "title": "Jack (1996)",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "score": 0.7435188115633447
+    },
+    {
+      "id": 481,
+      "title": "Apartment, The (1960)",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "score": 0.7435188115633447
+    },
+    {
+      "id": 522,
+      "title": "Down by Law (1986)",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "score": 0.7435188115633447
+    },
+    {
+      "id": 523,
+      "title": "Cool Hand Luke (1967)",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "score": 0.7435188115633447
+    },
+    {
+      "id": 598,
+      "title": "Big Squeeze, The (1996)",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "score": 0.7435188115633447
+    },
+    {
+      "id": 652,
+      "title": "Rosencrantz and Guildenstern Are Dead (1990)",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "score": 0.7435188115633447
+    }
+  ]
+}

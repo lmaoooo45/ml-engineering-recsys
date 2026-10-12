@@ -1,0 +1,99 @@
+{
+  "user": 1,
+  "method": "collaborative",
+  "fallback_to_popular": false,
+  "train_cutoff": 889237269,
+  "recommendations": [
+    {
+      "id": 318,
+      "title": "Schindler's List (1993)",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "score": 0.7744230628013611
+    },
+    {
+      "id": 655,
+      "title": "Stand by Me (1986)",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "score": 0.7019441723823547
+    },
+    {
+      "id": 357,
+      "title": "One Flew Over the Cuckoo's Nest (1975)",
+      "genres": [
+        "Drama"
+      ],
+      "score": 0.6765468120574951
+    },
+    {
+      "id": 474,
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)",
+      "genres": [
+        "Sci-Fi",
+        "War"
+      ],
+      "score": 0.6724262237548828
+    },
+    {
+      "id": 483,
+      "title": "Casablanca (1942)",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "score": 0.6396256685256958
+    },
+    {
+      "id": 423,
+      "title": "E.T. the Extra-Terrestrial (1982)",
+      "genres": [
+        "Children's",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "score": 0.5810807943344116
+    },
+    {
+      "id": 433,
+      "title": "Heathers (1989)",
+      "genres": [
+        "Comedy"
+      ],
+      "score": 0.5733081102371216
+    },
+    {
+      "id": 651,
+      "title": "Glory (1989)",
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "score": 0.5361813902854919
+    },
+    {
+      "id": 427,
+      "title": "To Kill a Mockingbird (1962)",
+      "genres": [
+        "Drama"
+      ],
+      "score": 0.5351448059082031
+    },
+    {
+      "id": 475,
+      "title": "Trainspotting (1996)",
+      "genres": [
+        "Drama"
+      ],
+      "score": 0.534924328327179
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "user": 1,
+  "method": "popular",
+  "fallback_to_popular": false,
+  "train_cutoff": 889237269,
+  "recommendations": [
+    {
+      "id": 286,
+      "title": "English Patient, The (1996)",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "score": 231.0
+    },
+    {
+      "id": 318,
+      "title": "Schindler's List (1993)",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "score": 207.0
+    },
+    {
+      "id": 288,
+      "title": "Scream (1996)",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "score": 194.0
+    },
+    {
+      "id": 300,
+      "title": "Air Force One (1997)",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "score": 189.0
+    },
+    {
+      "id": 357,
+      "title": "One Flew Over the Cuckoo's Nest (1975)",
+      "genres": [
+        "Drama"
+      ],
+      "score": 182.0
+    },
+    {
+      "id": 302,
+      "title": "L.A. Confidential (1997)",
+      "genres": [
+        "Crime",
+        "Film-Noir",
+        "Mystery",
+        "Thriller"
+      ],
+      "score": 173.0
+    },
+    {
+      "id": 275,
+      "title": "Sense and Sensibility (1995)",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "score": 171.0
+    },
+    {
+      "id": 313,
+      "title": "Titanic (1997)",
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "score": 171.0
+    },
+    {
+      "id": 483,
+      "title": "Casablanca (1942)",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "score": 167.0
+    },
+    {
+      "id": 423,
+      "title": "E.T. the Extra-Terrestrial (1982)",
+      "genres": [
+        "Children's",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "score": 164.0
+    }
+  ]
+}
